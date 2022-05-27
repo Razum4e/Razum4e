@@ -39,6 +39,7 @@
 <p></p>
 
 * Основы Adobe Photoshop
+* Английский: beginner advanced
 * ...
 
 
